@@ -1,0 +1,10 @@
+E:\Programmation\RealNumbers\RealNumbers\RealNumbers\bin\Debug\RealNumbers.exe.config
+E:\Programmation\RealNumbers\RealNumbers\bin\Debug\RealNumbers.exe.config
+E:\Programmation\RealNumbers\RealNumbers\bin\Debug\RealNumbers.exe
+E:\Programmation\RealNumbers\RealNumbers\bin\Debug\RealNumbers.pdb
+E:\Programmation\RealNumbers\RealNumbers\obj\Debug\RealNumbers.csprojResolveAssemblyReference.cache
+E:\Programmation\RealNumbers\RealNumbers\obj\Debug\RealNumbers.exe
+E:\Programmation\RealNumbers\RealNumbers\obj\Debug\RealNumbers.pdb
+F:\Programmation\RealNumbers\RealNumbers\bin\Debug\RealNumbers.exe.config
+F:\Programmation\RealNumbers\RealNumbers\obj\Debug\RealNumbers.exe
+F:\Programmation\RealNumbers\RealNumbers\obj\Debug\RealNumbers.pdb
